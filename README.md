@@ -3,9 +3,9 @@
 🚀 React <br>
 📱 React Native <br>
 🔧 Redux Toolkit <br>
-🌐 React Router <br>
+🌐 React Router, REST APIs, Express <br>
 📝 React Hook Form, yup <br>
 🔍 TypeScript <br>
-🌐 REST APIs <br>
 🔬 Cypress <br>
 🎨 CSS, Material-UI, Styled Components, SASS <br>
+📦 Mongoose <br>
