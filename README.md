@@ -9,3 +9,5 @@
 🔬 Cypress <br>
 🎨 CSS, Material-UI, Styled Components, SASS <br>
 📦 Mongoose <br>
+🐳 Docker
+⚙️ GitHub Actions
