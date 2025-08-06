@@ -13,3 +13,6 @@
 ⚙️ GitHub Actions
 
 View my portfolio [claudiuceaca.dev](https://claudiuceaca.dev)
+
+#### 📱 Check out my live app on Google Play:  
+[**Gender Quiz**](https://play.google.com/store/apps/details?id=gender.quiz) – built with React Native 🚀
