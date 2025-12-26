@@ -6,8 +6,8 @@
 🌐 React Router, REST APIs, Express <br>
 📝 React Hook Form, yup <br>
 🔍 TypeScript <br>
-🔥 Firebase (Auth, Firestore, Notifications) <br>
-📣 Revopush (Push Notifications) <br>
+🔥 Firebase (Auth, Firestore, Notifications, Analytics) <br>
+📣 Revopush <br>
 🔬 Cypress <br>
 🎨 CSS, Material-UI, Styled Components, SASS <br>
 📦 Mongoose <br>
